@@ -4,4 +4,4 @@ Das Datacollection-Tool ist ein Beurteilungstool anwendbar für alle landwirtsch
 
 Hier können die Änderungen nachverfolgt werden:
 
-- [Applikation](Changelog.md): Änderungsprotokoll für die Applikation
+- [Änderungsprotokoll](Changelog.md)
