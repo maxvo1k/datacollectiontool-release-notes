@@ -9,6 +9,7 @@
 # **0.997** (2025-10-05)
 
 ## Änderungen
+- Gruppenbeurteilungen: Erste Zeile der Tabelle immer sichtbar
 - Fehler bei Zeiterfassung ausgebessert
 - Verschiedene Dropdown-Menus eingefügt
 - Schafe und Ziegen getrennt
