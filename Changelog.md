@@ -10,7 +10,7 @@
 
 ## Änderungen
 - Gruppenbeurteilungen: Erste Zeile der Tabelle immer sichtbar
-- Fehler bei Zeiterfassung ausgebessert
+- Fehler bei Zeiterfassung und -export ausgebessert
 - Verschiedene Dropdown-Menus eingefügt
 - Schafe und Ziegen getrennt
 
