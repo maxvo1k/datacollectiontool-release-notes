@@ -1,14 +1,16 @@
 # Änderungsprotokoll
 
+# **0.999** (n/a)
+
+- Bestätigung von Boniturstart, Zeiterfassung ab diesem Moment
+
 # **0.998** (2026-01-14)
 
-## Änderungen
 - Eindeutigere Bezeichnung von Dateien beim Export
 - Mehrere exportiere Dateien werden zusammengefasst und können in einem Paket versendet werden
 
 # **0.997** (2025-10-05)
 
-## Änderungen
 - Gruppenbeurteilungen: Erste Zeile der Tabelle immer sichtbar
 - Fehler bei Zeiterfassung und -export ausgebessert
 - Verschiedene Dropdown-Menus eingefügt
