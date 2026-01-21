@@ -1,6 +1,6 @@
 # Änderungsprotokoll
 
-# **0.999** (2026-01-20)
+# **0.999** (2026-01-21)
 
 - Bestätigung von Boniturstart, Zeiterfassung ab diesem Moment
 
