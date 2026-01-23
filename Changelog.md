@@ -2,7 +2,8 @@
 
 # **1.0** (n/a)
 
-- ACHTUNG: Update setzt Datenbank zurück
+- **ACHTUNG: Update setzt Datenbank zurück**
+- 
 
 # **0.999** (2026-01-21)
 
