@@ -3,7 +3,7 @@
 # **1.0** (n/a)
 
 - **ACHTUNG: Update setzt Datenbank zurück**
-- 
+- Anzeige und Export von Zeitstempeln und Gesamtzeit
 
 # **0.999** (2026-01-21)
 
