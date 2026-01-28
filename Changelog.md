@@ -4,6 +4,7 @@
 
 - **ACHTUNG: Update setzt Datenbank zurück**
 - Anzeige und Export von Zeitstempeln und Gesamtzeit
+- Hinzugefügt: Detailkontrolle für Gruppe mit Counter
 
 # **0.999** (2026-01-21)
 
