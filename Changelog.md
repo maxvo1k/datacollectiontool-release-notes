@@ -2,7 +2,8 @@
 
 # **1.0** (n/a)
 
-- **ACHTUNG: Update setzt Datenbank zurück**
+### Änderungen
+**ACHTUNG: Update setzt Datenbank zurück**
 - Anzeige und Export von Zeitstempeln und Gesamtzeit
 ### Hinzugefügt
 - Detailkontrolle für Gruppe mit Counter
