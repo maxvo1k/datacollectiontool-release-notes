@@ -4,7 +4,9 @@
 
 - **ACHTUNG: Update setzt Datenbank zurück**
 - Anzeige und Export von Zeitstempeln und Gesamtzeit
-- Hinzugefügt: Detailkontrolle für Gruppe mit Counter
+### Hinzugefügt
+- Detailkontrolle für Gruppe mit Counter
+- Notizen und Counter für jede Beurteilungsart
 
 # **0.999** (2026-01-21)
 
