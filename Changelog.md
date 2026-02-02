@@ -1,6 +1,6 @@
 # Änderungsprotokoll
 
-# **1.0** (n/a)
+# **1.0** (2026-01-30)
 
 ### Änderungen
 **ACHTUNG: Update setzt Datenbank zurück**
