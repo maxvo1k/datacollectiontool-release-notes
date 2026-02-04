@@ -3,7 +3,7 @@
 # **1.01** (2026-02-04)
 
 ### Änderungen
-- n/a
+- Startseite Design
 ### Hinzugefügt
 - Stichprobenrechner für Schafe und Ziegen
 > AWIN sheep (2015): AWIN welfare assessment protocol for sheep. [DOI 10.13130/AWIN_SHEEP_2015](https://dx.doi.org/10.13130/AWIN_sheep_2015)
