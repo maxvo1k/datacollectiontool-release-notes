@@ -1,5 +1,13 @@
 # Änderungsprotokoll
 
+# **1.02** (2026-03-12)
+
+### Änderungen
+- Gruppenübersicht (Counter) umbenannt in Übersichtsbeurteilung
+- Betrieb wird in Zusammenfassung direkt angezeigt und beim Export in Dateiname gespeichert 
+### Hinzugefügt
+- Geflügel: Allgemeine Angaben zu Aufstiegshilfe und Schreckhaftigkeit der Herde möglich
+
 # **1.01** (2026-02-04)
 
 ### Änderungen
